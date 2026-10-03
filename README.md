@@ -150,4 +150,4 @@ Python, FastAPI, Uvicorn, Bash, GitHub Actions, Docker, GitHub Container Registr
 
 ## Author
 
-**Shaik Mohammed Umar** · [LinkedIn](https://linkedin.com/in/mohammed-umarshaik) · [Portfolio](https://mohammedumar.netlify.app) · [GitHub](https://github.com/shaikumar11)
+**Shaik Mohammed Umar** · [LinkedIn](https://linkedin.com/in/mohammed-umarshaik) · [Portfolio](https://kingumar.netlify.app/) · [GitHub](https://github.com/shaikumar11)
